@@ -46,8 +46,16 @@ Esboço:
 ![Página 02](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/72b48bbb-6ecf-4640-8a05-1b9f9497ae69)
 
 Versão Finalizada:
+<img width="1280" alt="Template #1 (2)" src="https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/c41292fb-da72-4991-8582-0fdd84602d9f">
 
-![image](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/20f7ba65-53e6-4032-9129-8389cad2a2c7)
+## Página 03 (Recomendação de produtos)
+
+Esboço:
+![Página 03](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/1094820a-3955-4f09-a0db-b02733d53a44)
+
+Versão Finalizada:
+<img width="1280" alt="Template #1 (3)" src="https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/df285089-0a80-4578-b759-5b51a1ac39e3">
+
 
 # Critérios utilizados para a definição de risco
 
