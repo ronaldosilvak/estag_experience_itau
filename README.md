@@ -88,6 +88,13 @@ Aplicação extremamente simples e intuitiva. Inicialmente, queria implementar o
 
 ![image](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/5e0b36fd-263e-414d-a4f0-ed769f8e008e)
 
+## Diagrama (Recomendação de produtos)
+
+![Diagrama de recomendação](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/87634555-0e02-4da7-9c67-217f0918e49d)
+
+## Repicando o diagrama no código!! (Linguagem DAX)
+![image](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/4a16de0c-70cb-457b-b468-76158c3b3fe1)
+
 # Finalização
 
 Queria agradecer a oportunidade de participar deste incrível treinamento e, para o pessoal que deseja estudar e ver de pertinho o dashboard criado após esse árduo seguimento de etapas, o mesmo está disponível neste link: {link} 
