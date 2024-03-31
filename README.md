@@ -92,7 +92,7 @@ Aplicação extremamente simples e intuitiva. Inicialmente, queria implementar o
 
 ![Diagrama de recomendação](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/87634555-0e02-4da7-9c67-217f0918e49d)
 
-## Repicando o diagrama no código!! (Linguagem DAX)
+## Replicando o diagrama no código!! (Linguagem DAX)
 ![image](https://github.com/ronaldosilvak/estag_experience_itau/assets/124167035/4a16de0c-70cb-457b-b468-76158c3b3fe1)
 
 # Finalização
