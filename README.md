@@ -97,7 +97,7 @@ Aplicação extremamente simples e intuitiva. Inicialmente, queria implementar o
 
 # Finalização
 
-Queria agradecer a oportunidade de participar deste incrível treinamento e, para o pessoal que deseja estudar e ver de pertinho o dashboard criado após esse árduo seguimento de etapas, o mesmo está disponível neste link: {link} 
+Queria agradecer a oportunidade de participar deste incrível treinamento e, para o pessoal que deseja estudar e ver de pertinho o dashboard criado após esse árduo seguimento de etapas, o mesmo está disponível neste link: [{link}](https://sites.google.com/view/ronaldoprojetosbi/início) 
 
 Bons estudos, obrigado Itaú Unibanco e muito obrigado a você por estar vendo meu projeto!!
 
